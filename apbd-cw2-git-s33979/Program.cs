@@ -11,3 +11,5 @@ static double CalculateAvg(int[] values)
 
 int[] tab = new[] { a, 5, 5 };
 
+Console.WriteLine(CalculateAvg(tab));
+
