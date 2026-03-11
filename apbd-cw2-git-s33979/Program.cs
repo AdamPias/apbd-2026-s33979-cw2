@@ -8,3 +8,6 @@ static double CalculateAvg(int[] values)
 {
     return values.Sum()/ values.Length;
 }
+
+int[] tab = new[] { a, 5, 5 };
+
