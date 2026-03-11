@@ -12,4 +12,10 @@ static double CalculateAvg(int[] values)
 int[] tab = new[] { a, 5, 5 };
 
 Console.WriteLine(CalculateAvg(tab));
+Console.WriteLine("YOoooooo to jest main commit");
+static double CalculateMax(int[] values)
+{
+    return values.Max();
+}
+
 
