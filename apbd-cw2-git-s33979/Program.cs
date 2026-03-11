@@ -12,4 +12,5 @@ static double CalculateAvgFeature(int[] values)
 int[] tabFeature = new[] { a, 5, 5 };
 
 Console.WriteLine(CalculateAvgFeature(tabFeature));
+Console.WriteLine("To jest Galaz Feature!!!");
 
