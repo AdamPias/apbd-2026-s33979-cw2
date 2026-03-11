@@ -3,3 +3,8 @@
 Console.WriteLine("Hello, World !!!!!!!");
 
 int a = 5;
+
+static double CalculateAvg(int[] values)
+{
+    return values.Sum()/ values.Length;
+}
