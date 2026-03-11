@@ -13,3 +13,8 @@ int[] tab = new[] { a, 5, 5 };
 
 Console.WriteLine(CalculateAvg(tab));
 
+static double CalculateMax(int[] values)
+    {
+    return values.Max();
+    }
+
