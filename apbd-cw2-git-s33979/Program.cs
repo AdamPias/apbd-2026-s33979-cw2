@@ -4,12 +4,12 @@ Console.WriteLine("Hello, World !!!!!!!");
 
 int a = 5;
 
-static double CalculateAvg(int[] values)
+static double CalculateAvgFeature(int[] values)
 {
     return values.Sum()/ values.Length;
 }
 
-int[] tab = new[] { a, 5, 5 };
+int[] tabFeature = new[] { a, 5, 5 };
 
-Console.WriteLine(CalculateAvg(tab));
+Console.WriteLine(CalculateAvgFeature(tabFeature));
 
