@@ -14,5 +14,10 @@ int[] tab = new[] { a, 5, 5 };
 Console.WriteLine(CalculateAvg(tab));
 Console.WriteLine("YOoooooo to jest main commit");
 
+static double CalculateMax(int[] values)
+    {
+    return values.Max();
+    }
+
 
 Console.WriteLine("TO JEST COMMIT MAINA POTRZEBNY DO ZADANIA 6 Z REBASE");
