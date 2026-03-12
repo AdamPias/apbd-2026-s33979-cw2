@@ -15,4 +15,4 @@ Console.WriteLine(CalculateAvg(tab));
 Console.WriteLine("YOoooooo to jest main commit");
 
 
-
+Console.WriteLine("TO JEST COMMIT MAINA POTRZEBNY DO ZADANIA 6 Z REBASE");
