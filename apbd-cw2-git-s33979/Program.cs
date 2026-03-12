@@ -16,7 +16,7 @@ Console.WriteLine("YOoooooo to jest main commit");
 
 
 
-static double CalculateMax(int[] values)
+static double CalculateMax67(int[] values)
     {
     return values.Max();
     }
