@@ -1,0 +1,1 @@
+zad5. Merge nie był fast-forward, ponieważ przed scaleniem gałęzi feature-max do main, na main został dodany niezależny commit.
