@@ -23,7 +23,16 @@ static double CalculateMax(int[] values)
 
 static double CalculateMin(int[] values)
 {
-    
+    double min = values[0];
+    for (int i = 0; i < values.Length; i++)
+    {
+        if (min > values[i])
+        {
+            min = values[i];
+        }
+    }
+
+    return min;
 }
 
 Console.WriteLine("TO JEST COMMIT MAINA POTRZEBNY DO ZADANIA 6 Z REBASE");
